@@ -21,3 +21,5 @@
 - Poedit Pro mac平台 Po文件编辑器
 - sketch 轻量易用的矢量设计工具
 - SketchUp Pro 2019 极受欢迎的3D设计软件
+- 城通网盘客户端
+- OmniGraffle 强大的图形工具，主要用于流程图的设计和构建
